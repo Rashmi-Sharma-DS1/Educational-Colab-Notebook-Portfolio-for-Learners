@@ -79,4 +79,4 @@ These notebooks are dedicated practice files where multiple techniques and custo
     * [Open Colab Notebook](https://colab.research.google.com/drive/1KiyO4abl21Na6ePndITd5iAcpkJVA_SW?usp=sharing)
 * **17. \_seaborn\_practice.ipynb** 🎯🐬
     * **Description:** Dedicated practice exploring **advanced customization** and statistical plotting techniques specifically in Seaborn.
-    * [Open Col
+    * [Open Colab Notebook](https://colab.research.google.com/drive/1-akw3F2vvRgyV2uNJ64WYWOYYKcklSXx?usp=sharing)
