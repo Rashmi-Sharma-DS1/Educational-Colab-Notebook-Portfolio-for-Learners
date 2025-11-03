@@ -14,10 +14,9 @@ This section is dedicated to **SciPy**, which provides specialized algorithms fo
     * [Open Colab Notebook](https://colab.research.google.com/drive/1r6QIsusiQ2Fv35fCbudDmTkbphGdsUr2?usp=sharing)
 * **3_Scipy_Python.ipynb** 📈✅
     * **Description:** Deep dive into the **`scipy.optimize`** module for applying optimzation, generating curve fitting, and working with probability
-    * distributions.
+     distributions.
     * [Open Colab Notebook](https://colab.research.google.com/drive/1Q9CpjCru4uzKteuqYoa4H2GfaaQktDgl?usp=sharing)
 * **4\_Scipy\_Python.ipynb** 📊🧩:
-    * **Description:** We explore the **`scipy.interpolation`** module for advanced linear algebra routines, including matrix decompositions, eigenvalues, and solving
-    * linear systems.
+    * **Description:** We explore the **`scipy.interpolation`** module Interpolation it is the process of estimating unknown data points between known, discrete data points to create a continuous curve or function.
     * [[Open Colab Notebook](https://colab.research.google.com/drive/1v8fyvbZGN2AidLdACs4mqM3O2s4HhN0Y?usp=sharing)]
   
