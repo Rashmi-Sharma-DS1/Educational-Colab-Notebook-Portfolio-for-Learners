@@ -14,6 +14,8 @@ This section is dedicated to **SciPy**, which provides specialized algorithms fo
     * [Open Colab Notebook](https://colab.research.google.com/drive/1r6QIsusiQ2Fv35fCbudDmTkbphGdsUr2?usp=sharing)
 * **3_Scipy_Python.ipynb** 📈✅
     * **Description:** Deep dive into the **`scipy.stats`** module for applying statistical tests, generating random variables, and working with probability
-* **4\_Scipy\_Python.ipynb** 📊🧩: We explore the **`scipy.linalg`** module for advanced linear algebra routines, including matrix decompositions, eigenvalues, and solving linear systems. [[Open Colab Notebook](https://colab.research.google.com/drive/1v8fyvbZGN2AidLdACs4mqM3O2s4HhN0Y?usp=sharing)]
-  distributions.
+    * distributions.
     * [Open Colab Notebook](https://colab.research.google.com/drive/1Q9CpjCru4uzKteuqYoa4H2GfaaQktDgl?usp=sharing)
+
+* **4\_Scipy\_Python.ipynb** 📊🧩: We explore the **`scipy.linalg`** module for advanced linear algebra routines, including matrix decompositions, eigenvalues, and solving linear systems. [[Open Colab Notebook](https://colab.research.google.com/drive/1v8fyvbZGN2AidLdACs4mqM3O2s4HhN0Y?usp=sharing)]
+  
