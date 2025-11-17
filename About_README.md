@@ -26,4 +26,5 @@ For detailed information and links to the Colab notebooks, please visit the spec
 * **[🔢 NumPy: The Core of Data Manipulation](README_NUMPY.md)**
 * **[🎨 Matplotlib & Seaborn: Data Visualization Mastery](README_MATPLOTLIB_SEABORN.md)**
 * **[🧪 SciPy: Algorithms for Scientific Computing](README_SCIPY.md)**
+* **[📈 Statsmodels: Deep Dive into Statistical Modeling](README_STATSMODELS.md)**
 * **[🤖 Machine Learning & EDA: Applied Project](README_MACHINE_LEARNING.md)**
