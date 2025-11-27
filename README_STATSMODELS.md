@@ -12,7 +12,7 @@ This section covers the foundational modeling techniques and their detailed stat
 
 * **1. \_Regression\_and\_Linear\_Models\_.ipynb** ➖📊
     * **Description:** **Ordinary Least Squares (OLS)**: Building, fitting, and interpreting the classic linear regression model.
-    * [Open Colab Notebook](Link to be added soon)
+    * [[Open Colab Notebook](https://colab.research.google.com/drive/1gHl6bZo6UiMPorMjCFaLPi0_xYjcEPsl?usp=drive_link)]
 * **2. \_Generalized\_Linear\_Models\_GLM\_.ipynb** ➗➕
     * **Description:** Modeling categorical (Logistic) and count (Poisson) data outcomes using the GLM framework.
     * [Open Colab Notebook](Link to be added soon)
