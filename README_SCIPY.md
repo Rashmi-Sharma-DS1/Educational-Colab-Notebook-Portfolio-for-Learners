@@ -20,3 +20,7 @@ This section is dedicated to **SciPy**, which provides specialized algorithms fo
     * **Description:** We explore the **`scipy.interpolation`** module Interpolation it is the process of estimating unknown data points between known, discrete data points to create a continuous curve or function.
     * [[Open Colab Notebook](https://colab.research.google.com/drive/1v8fyvbZGN2AidLdACs4mqM3O2s4HhN0Y?usp=sharing)]
   
+* **5\_Scipy\_Python.ipynb** 🧊🤔:
+    * **Description:** We explore the **`scipy.cubic spline interpolation`** module Cubic Spline Interpolation is a method used to draw a smooth curve through a set of given data points.
+    * [[Open Colab Notebook](https://colab.research.google.com/drive/17q3ELywz0wSwjqhKpIVKkt2boqBaN3Po?usp=drive_link)]
+  
