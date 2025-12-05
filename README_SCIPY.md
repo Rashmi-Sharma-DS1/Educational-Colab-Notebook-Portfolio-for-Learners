@@ -23,4 +23,14 @@ This section is dedicated to **SciPy**, which provides specialized algorithms fo
 * **5\_Scipy\_Python.ipynb** 🧊🤔:
     * **Description:** We explore the **`scipy.cubic spline interpolation`** module Cubic Spline Interpolation is a method used to draw a smooth curve through a set of given data points.
     * [[Open Colab Notebook](https://colab.research.google.com/drive/17q3ELywz0wSwjqhKpIVKkt2boqBaN3Po?usp=drive_link)]
+
+* **6\_Scipy\_Python.ipynb** 🧊🤔:
+    * **Description:** We explore the **`scipy.stats`** module scipy.stats use for probabilistic distributions ad statisitical operations .
+    * [[Open Colab Notebook](https://colab.research.google.com/drive/1vudSMD27RHNH_fe89qgOr19sTgGr4Zl9?usp=drive_link)]
+
+* **7\_Scipy\_Python.ipynb** 🧊🤔:
+    * **Description:** We explore the **`scipy.describe and regression analysis `** stats.describe use for describe data stats and Regression analysis is a statistical technique used to test the relationship between var.
+    * [[Open Colab Notebook](https://colab.research.google.com/drive/1qhWy4TH6TYMvVn-DZkxpgjZ_q-XlfAg3?usp=drive_link)]
+
+
   
